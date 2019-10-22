@@ -1,0 +1,6 @@
+namespace WebApiFormulario.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

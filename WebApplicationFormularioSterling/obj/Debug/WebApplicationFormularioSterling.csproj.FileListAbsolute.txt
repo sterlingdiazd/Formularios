@@ -1,0 +1,182 @@
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\ApplicationInsights.config
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\csc.exe
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\vbc.exe
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\VBCSCompiler.exe
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\WebApplicationFormularioSterling.dll.config
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\WebApplicationFormularioSterling.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\WebApplicationFormularioSterling.pdb
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Antlr3.Runtime.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\EntityFramework.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\EntityFramework.SqlServer.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.Web.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.WindowsServer.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.ApplicationInsights.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Newtonsoft.Json.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Owin.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Net.Http.Formatting.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Helpers.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.Owin.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.WebHost.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Mvc.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Optimization.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Razor.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.Deployment.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.Razor.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\WebGrease.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.Web.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.WindowsServer.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.ApplicationInsights.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Newtonsoft.Json.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Net.Http.Formatting.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Helpers.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.WebHost.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Mvc.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Optimization.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Razor.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.Deployment.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.Razor.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Antlr3.Runtime.pdb
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\EntityFramework.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\EntityFramework.SqlServer.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.Owin.xml
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\obj\Debug\WebApplicationFormularioSterling.csprojResolveAssemblyReference.cache
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\obj\Debug\WebApplicationFormularioSterling.dll
+c:\users\sterling\documents\visual studio 2015\Projects\WebApiFormulario\WebApplicationFormularioSterling\obj\Debug\WebApplicationFormularioSterling.pdb
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\ApplicationInsights.config
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\csc.exe
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\vbc.exe
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\WebApplicationFormularioSterling.dll.config
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\WebApplicationFormularioSterling.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\WebApplicationFormularioSterling.pdb
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Antlr3.Runtime.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\EntityFramework.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\EntityFramework.SqlServer.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.Web.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Newtonsoft.Json.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Owin.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Net.Http.Formatting.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Helpers.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.Owin.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.WebHost.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Mvc.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Optimization.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Razor.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\WebGrease.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.Web.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Newtonsoft.Json.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Net.Http.Formatting.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Helpers.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.WebHost.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Mvc.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Optimization.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Razor.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Antlr3.Runtime.pdb
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\EntityFramework.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\EntityFramework.SqlServer.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\bin\System.Web.Http.Owin.xml
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\obj\Debug\WebApplicationFormularioSterling.csprojResolveAssemblyReference.cache
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\obj\Debug\WebApplicationFormularioSterling.csproj.CoreCompileInputs.cache
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\obj\Debug\WebApplicationFormularioSterling.csproj.CopyComplete
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\obj\Debug\WebApplicationFormularioSterling.dll
+C:\Users\Sterling\Desktop\Proyectos\WebApiFormulario\WebApiFormulario\WebApplicationFormularioSterling\obj\Debug\WebApplicationFormularioSterling.pdb
